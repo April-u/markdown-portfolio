@@ -1,2 +1,2 @@
-## First Name Last Name ##
-Welcome to my super fake portfolio blog test.
+## First & Last Name ##
+Lorem ipsum dolor sit amet.
