@@ -1,2 +1,2 @@
-## Hi I am April Alfonso ##
+## First Name Last Name ##
 Welcome to my super fake portfolio blog test.
